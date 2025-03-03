@@ -1,0 +1,39 @@
+.button {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px;
+    background-color: black;
+    border: 2px solid black;
+}
+#red {
+
+    background-color: red;
+}
+#yellow {
+
+    background-color: yellow;
+}
+#blue {
+
+    background-color: blue;
+}
+#pink {
+
+    background-color: pink;
+}
+#green {
+
+    background-color: green;
+} 
+#white {
+
+    background-color: white;
+} 
+
