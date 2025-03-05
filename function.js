@@ -67,11 +67,11 @@ function checkGuesses (guess){
     }
     else if(guess < randomNumber)
     {
-        displayMessage (`Number is less than that`)
+        displayMessage (`Number is too low`)
     }
     if(guess > randomNumber)
     {
-        displayMessage (`Number is greater than that`)
+        displayMessage (`Number is too high`)
     }
 }
 
